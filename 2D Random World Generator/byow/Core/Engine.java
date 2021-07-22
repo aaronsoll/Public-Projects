@@ -245,7 +245,7 @@ public class Engine {
             Font smallFont = new Font("SERIF", Font.PLAIN, 24);
             StdDraw.setFont(bigFont);
             StdDraw.setPenColor();
-            StdDraw.text(width / 2, height * 2 / 3, "CS61B: THE GAME");
+            StdDraw.text(width / 2, height * 2 / 3, "Aaron Soll: The Game");
             StdDraw.setFont(smallFont);
             StdDraw.text(width / 2, height * 6 / 20, "New Game (N)");
             StdDraw.text(width / 2, height * 5 / 20, "Load Game (L)");
