@@ -12,3 +12,4 @@ Aaron Soll is a Junior at UC Berkeley studying EE/ Computer Science and is curre
 ### Aquarium Animal Object Detection
 - The code for training and using the Mask-RCNN object detection model for detecting 7 aquarium animals
 - The data can be found at https://www.kaggle.com/paulrohan2020/aquarium-object-detection-4817-bounding-boxes
+- Implemented in PyTorch using a custom dataset class
